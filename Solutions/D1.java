@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class D1{
     public static void main (String [] args){
-        File file = new File("Puzzle");
+        File file = new File("D1-Puzzle");
         PriorityQueue<Integer> pq1= new PriorityQueue<>();
         PriorityQueue<Integer> pq2= new PriorityQueue<>();
         String [] parsedData = null;
